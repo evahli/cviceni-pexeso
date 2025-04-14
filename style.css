@@ -98,3 +98,7 @@ h1 {
 .karticka.otocena .karticka__obsah {
 	transform: rotateY(180deg);
 }
+
+.nalezena {
+border-color: green;
+}
